@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: objectpool
+  m_EditorClassIdentifier: Assembly-CSharp::objectPool
+  objectsData:
+  - <Position>k__BackingField: {x: -1.5, y: 0.5, z: 0}
+    <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+    <Prefab>k__BackingField: {fileID: 3288145604336949278, guid: 55834fe8ce4f04d6a958b54216839dfc, type: 3}
+  - <Position>k__BackingField: {x: 1.5, y: 0.5, z: 0}
+    <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+    <Prefab>k__BackingField: {fileID: 3288145604336949278, guid: eeea33fd856ee8e52ba17f060f9f7750, type: 3}
+  - <Position>k__BackingField: {x: -1.5, y: -0.5, z: 0}
+    <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+    <Prefab>k__BackingField: {fileID: 3288145604336949278, guid: 48895398e11410fd2b83fd8c67a1bf57, type: 3}
+  - <Position>k__BackingField: {x: 1.5, y: -0.5, z: 0}
+    <Color>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
+    <Prefab>k__BackingField: {fileID: 3288145604336949278, guid: b9c1f45a1ab64da9c8e1462083fc18af, type: 3}
